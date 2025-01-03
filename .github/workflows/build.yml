@@ -27,7 +27,7 @@ jobs:
           servers: '[
           {"id": "github-WSArch","configuration": {"httpHeaders": {"property": {"name": "Authorization","value": "Bearer ${{ secrets.GITHUB_TOKEN }}"}}}},
           {"id": "github-ABMFrameworkCore","configuration": {"httpHeaders": {"property": {"name": "Authorization","value": "Bearer ${{ secrets.GITHUB_TOKEN }}"}}}},
-          {"id": "github-ABXStarter","configuration": {"httpHeaders": {"property": {"name": "Authorization","value": "Bearer ${{ secrets.GITHUB_TOKEN }}"}}}},
+          {"id": "github-ABXStarter","configuration": {"httpHeaders": {"property": {"name": "Authorization","value": "Bearer ${{ secrets.GITHUB_TOKEN }}"}}}}
           ]'
 
 
