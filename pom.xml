@@ -5,9 +5,9 @@
 
     <groupId>org.abx.vm</groupId>
     <artifactId>abxstarter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <name>ABXStarter</name>
-    <description>ABX Started</description>
+    <description>ABX Starter</description>
 
     <repositories>
         <repository>
