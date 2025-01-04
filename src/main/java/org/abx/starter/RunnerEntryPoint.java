@@ -1,4 +1,4 @@
-package org.abx.runner;
+package org.abx.starter;
 
 public class RunnerEntryPoint {
 
